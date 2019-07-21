@@ -11,4 +11,3 @@ CarrierWave.configure do |config|
       region:            ENV["AWS_REGION"]
   }
 end
-
